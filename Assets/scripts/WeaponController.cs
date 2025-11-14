@@ -19,7 +19,7 @@ public class WeaponController : MonoBehaviour
         else
         {
             rotationDirection = 1;
-        }    
+        }
     }
 
     void Update()
